@@ -1,2 +1,2 @@
 # TODO Question for group discussion: Whats wrong here?
-dbURL: mongodb://phrasefinder:vulcan@ds035310.mongolab.com:35310/phrasefinderusers
+dbURL: mongodb://phrasefinder:vulcan@ds1234.mongolab.com:35310/phrasefinderusers
